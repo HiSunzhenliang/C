@@ -4,7 +4,7 @@ var searchData=
   ['data_1',['data',['../df/dea/structdata.html',1,'data'],['../d8/db8/structkohonen__array__3d.html#ad546baa2e81c6196d5f1dc0fe2e5bd59',1,'kohonen_array_3d::data()'],['../db/d8b/struct_node.html#a87c003c9f600e3fc58e6e90835f0b605',1,'Node::data()'],['../d5/da1/structnode.html#a2d890bb9f6af0ffd73fe79b21124c2a2',1,'node::data()']]],
   ['decimal_5fto_5fbinary_2',['decimal_to_binary',['../d8/d30/decimal__to__binary__recursion_8c.html#acbbe6358ec95b3201865a72b2ac522c8',1,'decimal_to_binary_recursion.c']]],
   ['decimal_5fto_5fbinary_5frecursion_2ec_3',['decimal_to_binary_recursion.c',['../d8/d30/decimal__to__binary__recursion_8c.html',1,'']]],
-  ['decode_4',['decode',['../df/d27/alaw_8c.html#a7827828dadb8b332a42278b4d4a1b749',1,'alaw.c']]],
+  ['decode_4',['decode',['../df/d27/alaw_8c.html#a093ac72124e3c2268d1150676e63175d',1,'alaw.c']]],
   ['delete_5',['delete',['../da/d02/binary__search__tree_8c.html#a6983e8a91a3d25d7d000807f18ba2748',1,'delete(node *root, int data):&#160;binary_search_tree.c'],['../dd/d29/doubly__linked__list_8c.html#aa49167a68597f162e699b846fac0d446',1,'delete(List *list, int pos):&#160;doubly_linked_list.c']]],
   ['delete_5fadaline_6',['delete_adaline',['../da/d2a/group__adaline.html#ga6f35caa3084772cc126ac7b20f67f665',1,'adaline_learning.c']]],
   ['delete_5fbt_7',['delete_bt',['../df/d3c/threaded__binary__trees_8c.html#a284d683f74b6c884e79ba00d3d1c3317',1,'threaded_binary_trees.c']]],

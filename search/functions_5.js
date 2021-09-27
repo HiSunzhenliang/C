@@ -2,7 +2,7 @@ var searchData=
 [
   ['editinfo_0',['editInfo',['../db/d84/malloc__dbg_8c.html#a8ac3a93239838ac88c18df64c58b9275',1,'malloc_dbg.c']]],
   ['eigen_5fvalues_1',['eigen_values',['../d7/d50/qr__eigen__values_8c.html#a0d8ed79786d17df48396b333c09d05bb',1,'qr_eigen_values.c']]],
-  ['encode_2',['encode',['../df/d27/alaw_8c.html#ab425260281e79a5d1be584358fefa684',1,'alaw.c']]],
+  ['encode_2',['encode',['../df/d27/alaw_8c.html#a751d8e2c1975706e4d876316518c54c4',1,'alaw.c']]],
   ['endprogramabruptly_3',['endProgramAbruptly',['../d3/d78/words__alphabetical_8c.html#a5157a5b4e164f934602fa78413504029',1,'words_alphabetical.c']]],
   ['error_4',['error',['../d1/d98/tcp__full__duplex__client_8c.html#a7e15c8e2885871839fc2b820dfbdb4ce',1,'error():&#160;tcp_full_duplex_client.c'],['../d1/d6b/tcp__full__duplex__server_8c.html#a7e15c8e2885871839fc2b820dfbdb4ce',1,'error():&#160;tcp_full_duplex_server.c'],['../da/d07/tcp__half__duplex__client_8c.html#a7e15c8e2885871839fc2b820dfbdb4ce',1,'error():&#160;tcp_half_duplex_client.c'],['../d6/d2b/tcp__half__duplex__server_8c.html#a7e15c8e2885871839fc2b820dfbdb4ce',1,'error():&#160;tcp_half_duplex_server.c']]],
   ['euler_5ffrom_5fquat_5',['euler_from_quat',['../dc/d9a/group__quats.html#ga1afd165100e9b02b86e3bd11b50f3b06',1,'quaternions.c']]],

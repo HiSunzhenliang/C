@@ -1,7 +1,7 @@
 var searchData=
 [
   ['malloc_0',['malloc',['../d2/ddd/malloc__dbg_8h.html#a725f50ecaf1959d96de79b36b4788fee',1,'malloc_dbg.h']]],
-  ['max_1',['MAX',['../df/d27/alaw_8c.html#a392fb874e547e582e9c66a08a1f23326',1,'MAX():&#160;alaw.c'],['../dd/d93/client_8c.html#a392fb874e547e582e9c66a08a1f23326',1,'MAX():&#160;client.c'],['../d1/d20/server_8c.html#a392fb874e547e582e9c66a08a1f23326',1,'MAX():&#160;server.c'],['../d9/dcc/prim_8c.html#a392fb874e547e582e9c66a08a1f23326',1,'MAX():&#160;prim.c'],['../d2/d6d/bubble__sort__2_8c.html#a392fb874e547e582e9c66a08a1f23326',1,'MAX():&#160;bubble_sort_2.c']]],
+  ['max_1',['MAX',['../dd/d93/client_8c.html#a392fb874e547e582e9c66a08a1f23326',1,'MAX():&#160;client.c'],['../d1/d20/server_8c.html#a392fb874e547e582e9c66a08a1f23326',1,'MAX():&#160;server.c'],['../d9/dcc/prim_8c.html#a392fb874e547e582e9c66a08a1f23326',1,'MAX():&#160;prim.c'],['../d2/d6d/bubble__sort__2_8c.html#a392fb874e547e582e9c66a08a1f23326',1,'MAX():&#160;bubble_sort_2.c']]],
   ['max_5fdeno_2',['MAX_DENO',['../d1/df9/problem__26_2sol1_8c.html#a619eec3220cebd7c5e455edbb14e9b12',1,'sol1.c']]],
   ['max_5fdigits_3',['MAX_DIGITS',['../d8/d32/problem__25_2sol1_8c.html#a001791a21d538b8b9176287ae60d9b61',1,'sol1.c']]],
   ['max_5flen_4',['MAX_LEN',['../d1/df9/problem__26_2sol1_8c.html#aabf4f709c8199e41cf279c77112345fe',1,'sol1.c']]],

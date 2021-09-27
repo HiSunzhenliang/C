@@ -7,7 +7,7 @@ var searchData=
   ['elem_5fsize_4',['elem_size',['../dd/d06/structsegment__tree.html#aa9dc376b5b219c4cec6546483527b853',1,'segment_tree']]],
   ['element_5',['ELEMENT',['../da/d6c/exponential__search_8c.html#aa5e9be47d76a4e1865914bcb7a2a7479',1,'exponential_search.c']]],
   ['elevation_6',['elevation',['../d2/de8/structeuler__.html#abbbf12f0a960faf783d219f9012cdce6',1,'euler_']]],
-  ['encode_7',['encode',['../df/d27/alaw_8c.html#ab425260281e79a5d1be584358fefa684',1,'alaw.c']]],
+  ['encode_7',['encode',['../df/d27/alaw_8c.html#a751d8e2c1975706e4d876316518c54c4',1,'alaw.c']]],
   ['end_8',['end',['../d9/dd7/struct__cantor__set.html#acfc25ab716a3c79be8a5a4cab94e8def',1,'_cantor_set']]],
   ['endprogramabruptly_9',['endProgramAbruptly',['../d3/d78/words__alphabetical_8c.html#a5157a5b4e164f934602fa78413504029',1,'words_alphabetical.c']]],
   ['epsilon_10',['EPSILON',['../de/d5a/group__quaternions.html#ga002b2f4894492820fe708b1b7e7c5e70',1,'EPSILON():&#160;geometry_datatypes.h'],['../d7/d50/qr__eigen__values_8c.html#a002b2f4894492820fe708b1b7e7c5e70',1,'EPSILON():&#160;qr_eigen_values.c']]],

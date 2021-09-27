@@ -1,6 +1,6 @@
 var alaw_8c =
 [
-    [ "MAX", "df/d27/alaw_8c.html#a392fb874e547e582e9c66a08a1f23326", null ],
-    [ "decode", "df/d27/alaw_8c.html#a7827828dadb8b332a42278b4d4a1b749", null ],
-    [ "encode", "df/d27/alaw_8c.html#ab425260281e79a5d1be584358fefa684", null ]
+    [ "decode", "df/d27/alaw_8c.html#a093ac72124e3c2268d1150676e63175d", null ],
+    [ "encode", "df/d27/alaw_8c.html#a751d8e2c1975706e4d876316518c54c4", null ],
+    [ "main", "df/d27/alaw_8c.html#a0ddf1224851353fc92bfbff6f499fa97", null ]
 ];
